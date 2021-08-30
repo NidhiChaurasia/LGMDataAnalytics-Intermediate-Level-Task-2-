@@ -13,3 +13,5 @@ https://bit.ly/2TK5Xn5
 Created the Decision Tree classifier and visualized it graphically. 
 
 The purpose is if we feed any new data to this classifier, it would be able to  predict the right class accordingly.
+
+Dataset used in this project : https://bit.ly/3kXTd
